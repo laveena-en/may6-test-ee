@@ -28,7 +28,7 @@
     ],
     "shouldTruncate": false,
     "truncateButtonColor": "{{appsmith.theme.colors.primaryColor}}",
-    "text": "test to be merged",
+    "text": "test",
     "key": "4ei0byl86f",
     "isDeprecated": false,
     "rightColumn": 30,
